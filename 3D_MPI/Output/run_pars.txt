@@ -1,0 +1,11 @@
+Cube Size =     64x    64x    64
+t_end =     2.50
+Isothermal sound speed =     1.00
+Edot =  0.10E-02
+dt_turb =   0.0500
+k_max =  2
+Bx_0 =  0.10E-04
+By_0 =  0.00E+00
+Bz_0 =  0.00E+00
+Output dump frequency =   0.0200
+Restart frequency =   0.5000

@@ -1,0 +1,16 @@
+TO DO LIST:
+
+
+* Change names of passive variable local arrays to distinguish 
+  from MHD solver work arrays
+
+* Test turbulence driver
+
+* Add more 3D tests: blast wave, B field loop advection etc.
+.
+.
+.
+.
+
+* Add test particle module.
+  

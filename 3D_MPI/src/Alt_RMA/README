@@ -1,0 +1,9 @@
+Alternate version of the main code:
+
+This version uses passive target RMA. It seems to be slower 
+than active target RMA. Need to figure out why and how to speed it up.
+Also, there's a barrier in the 'initiate_halo_exchange()' subroutine.
+Not including this barrier causes program to hang on multi-node system.
+That's not supposed to happen, but oh well.. The barrier is just a 
+band-aid fix for now. 
+

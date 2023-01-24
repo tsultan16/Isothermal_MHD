@@ -1,0 +1,5 @@
+Total execution time (s) =     480.71
+Solve Time Fraction = .76136249507170
+Halo Exchange Time Fraction = .00015511724298
+I/O Time Fraction = .23055554556347
+Total divB = .00000000000000
